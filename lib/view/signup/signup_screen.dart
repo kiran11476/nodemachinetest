@@ -17,7 +17,7 @@ class ScreenHome extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(170, 30, 30, 30),
-        title: const Text('Delivery'),
+        title: const Text('Feedback'),
       ),
       body: Stack(children: [
         BackgroundImage(
